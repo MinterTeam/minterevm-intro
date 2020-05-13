@@ -1,5 +1,7 @@
 # MinterEVM
 
+WARNING: MinterEVM is under VERY ACTIVE DEVELOPMENT and should be treated as pre-alpha software. This means it is not meant to be run in production, its APIs are subject to change without warning and should not be relied upon, and it should not be used to hold any value. We will remove this warning when we have a release that is stable, secure, and properly tested.
+
 ## How to Connect
 1. [Download](https://github.com/MyEtherWallet/MyEtherWallet/releases/tag/v5.6.1) `MyEtherWallet`, unpack archive and launch it by opening  `index.html` in your browser.
 2. Log In using `mnemonic phrase` or `private key`.
