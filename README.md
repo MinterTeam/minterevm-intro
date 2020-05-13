@@ -11,7 +11,7 @@
 4. Choose created custom network.
 5. Now you have access to your MinterEVM wallet.
 
-![MEW Settings](/mew_settings.png | width=400px)
+<img src="/mew_settings.png" width="400">
 
 ## How to Send MNT to EVM
 1. Log Into [Minter Testnet Console](https://testnet.console.minter.network/).
