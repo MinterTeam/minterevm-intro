@@ -13,18 +13,18 @@
 4. Choose created custom network.
 5. Now you have access to your MinterEVM wallet.
 
-<img src="/mew_settings.png" width="400">
+<img src="mew_settings.png" width="400">
 
 ## How to Send MNT to MinterEVM
 1. Log Into [Minter Testnet Console](https://testnet.console.minter.network/).
 2. Send any amount of MNT to `Mxe58b691fda89931b17c0d988a9288e1284220c1b` with payload containing your  EVM address.
 3. Coins should be credited to your MinterEVM address in a few seconds. 
 
-<img src="/send_mnt.png">
+<img src="send_mnt.png">
 
 ## How to Get MNT back from MinterEVM
 1. Log Into MyEtherWallet.
 2. Send any amount of coins to  `0x0000000000000000000000000000000000000000` with `Data` containing your Minter Testnet Address (replace Mx with 0x).
 3. Coins should be credited to your Minter Testnet address in a few seconds.
 
-<img src="/withdraw_mnt.png" width="600">
+<img src="withdraw_mnt.png" width="600">
